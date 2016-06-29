@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Getting started
+## Getting started
 
 Ensure you have homebrew setup and ready. Then install some deps:
 
